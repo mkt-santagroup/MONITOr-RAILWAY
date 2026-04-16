@@ -1,0 +1,22 @@
+{
+  "name": "bot---monitor-de-usage-railway",
+  "version": "1.0.0",
+  "description": "\"# MONITOr-RAILWAY\"",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkt-santagroup/MONITOr-RAILWAY.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mkt-santagroup/MONITOr-RAILWAY/issues"
+  },
+  "homepage": "https://github.com/mkt-santagroup/MONITOr-RAILWAY#readme"
+}
