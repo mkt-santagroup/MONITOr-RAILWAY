@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/mkt-santagroup/MONITOr-RAILWAY/issues"
   },
-  "homepage": "https://github.com/mkt-santagroup/MONITOr-RAILWAY#readme"
+  "homepage": "https://github.com/mkt-santagroup/MONITOr-RAILWAY#readme",
+  "dependencies": {
+    "discord.js": "^14.26.3",
+    "dotenv": "^17.4.2"
+  }
 }
